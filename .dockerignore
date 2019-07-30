@@ -1,0 +1,7 @@
+**
+
+!/.gitmodules
+!/CMakeLists.txt
+!/etc/**
+!/CPlusPlusCode/**
+!/submodules/**
